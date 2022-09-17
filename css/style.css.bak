@@ -79,7 +79,7 @@ header{
 }
 /* Slogan End */
 
-/*Project Start*/
+/*Slider Image Start*/
 .project_sec{
     width: 60%;
     margin: 25px auto 70px;
